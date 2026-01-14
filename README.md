@@ -141,9 +141,4 @@ Bem-vindo(a)! Meu nome é Maria Fernanda Dias Costa, tenho 20 anos e curso Anál
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiasFeh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasFeh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
->
