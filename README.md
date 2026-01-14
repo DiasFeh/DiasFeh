@@ -5,18 +5,18 @@
 Bem-vindo(a)! Meu nome é Maria Fernanda Dias Costa, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas na UDF. Sou natural de Brasília e estou em constante aprendizado na área de tecnologia. Utilizo este espaço para registrar minha evolução, meus estudos e projetos, com o objetivo de ingressar profissionalmente no mercado de TI.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/mariafernanda53/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DiasFeh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/DiasFeh">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Diasfeh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
